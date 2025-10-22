@@ -1,5 +1,5 @@
 // API Base URL
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'http://13.246.198.173/:3000/api';
 
 // Load tasks when page loads
 document.addEventListener('DOMContentLoaded', () => {
