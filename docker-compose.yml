@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: task-manager-app
+    container_name: hng13-stage1-devops
     ports:
       - "3000:3000"
     restart: unless-stopped
