@@ -2,5 +2,14 @@ node_modules
 npm-debug.log
 .git
 .gitignore
-*.md
+README.md
 .env
+.DS_Store
+*.log
+.vscode
+.idea
+coverage
+.deploy_tmp
+deploy*.log
+*.pem
+deploy.sh
